@@ -1,4 +1,4 @@
-name: Recovery Build
+name: OPPO Find X (PAFM00)
 
 on:
   workflow_dispatch:
