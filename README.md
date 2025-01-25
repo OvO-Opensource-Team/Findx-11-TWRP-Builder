@@ -7,8 +7,12 @@
 3. TARGET: Recovery
 4. MAIN REPO: TWRP-11
 5. ANDROID 11
-   
+
+---
+
 ### [Download](https://github.com/qwe28256/Findx-11-TWRP-Builder/release)
+
+---
 
 ## Bugs
 
