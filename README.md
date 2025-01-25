@@ -1,6 +1,14 @@
 ## OPPO Find X (PAFM00) TWRP Builder
 
-#### [Download](https://github.com/qwe28256/Findx-11-TWRP-Builder/release)
+## Support Device
+
+1. OPPO Find X
+2. devcode: PAFM00
+3. TARGET: Recovery
+4. MAIN REPO: TWRP-11
+5. ANDROID 11
+   
+### [Download](https://github.com/qwe28256/Findx-11-TWRP-Builder/release)
 
 ## Bugs
 
