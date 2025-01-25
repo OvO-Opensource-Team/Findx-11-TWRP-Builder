@@ -1,6 +1,6 @@
 ## OPPO Find X (PAFM00) TWRP Builder
 
-## [Download](https://github.com/qwe28256/Findx-11-TWRP-Builder/release)
+#### [Download](https://github.com/qwe28256/Findx-11-TWRP-Builder/release)
 
 ## Bugs
 
